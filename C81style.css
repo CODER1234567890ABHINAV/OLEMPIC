@@ -1,0 +1,16 @@
+
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
+.body_backgorund {
+	src: url("bgi.jpg");
+}
+
+#myCanvas{
+	border-width: 10px;
+	border-color: rgb(0, 0, 0);
+	border-style: ridge;
+
+}
